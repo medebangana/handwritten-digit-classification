@@ -69,25 +69,17 @@ Seaborn,
 Scikit-learn, 
 Jupyter Notebook
 
-# 📁 Project Structure
-mnist-digit-classification-cnn-rnn/
-│
-├── notebooks/
-│   ├── MNIST_CNN.ipynb
-│   └── MNIST_RNN.ipynb
-│
-├── results/
-│   ├── cnn_confusion_matrix.png
-│   └── rnn_confusion_matrix.png
-│
-├── requirements.txt
-└── README.md
-
 # 💡 Key Learnings
 Image preprocessing and normalization
+
 PyTorch tensors and DataLoaders
+
 CNN architecture and spatial feature extraction
+
 RNN sequence processing
+
 Forward and backward propagation
+
 Model evaluation and confusion matrix analysis
+
 Comparing different deep learning architectures
