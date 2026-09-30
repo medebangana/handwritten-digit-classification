@@ -16,10 +16,10 @@ Images were converted to tensors and normalized before training.
 
 The CNN learns spatial features from the handwritten images using:
 
-Convolutional layers
-ReLU activation
-Max pooling
-Fully connected layers
+Convolutional layers - 
+ReLU activation - 
+Max pooling - 
+Fully connected layers - 
 10-class output layer
 
 ## RNN
@@ -34,21 +34,21 @@ The RNN processes the image row by row and uses the final timestep representatio
 
 Both models were implemented using PyTorch and trained using:
 
-Cross-Entropy Loss
-Adam Optimizer
-Mini-batch training
-Batch size: 64
-Epochs: 10
+Cross-Entropy Loss,
+Adam Optimizer,
+Mini-batch training,
+Batch size: 64,
+Epochs: 10,
 
 # 📈 Evaluation
 
 Models were evaluated using:
 
-Test Accuracy
-Confusion Matrix
-Results
-Model	Test Accuracy
-CNN	XX.XX%
+Test Accuracy, 
+Confusion Matrix, 
+Results, 
+Model	Test Accuracy, 
+CNN	XX.XX%, 
 RNN	XX.XX%
 
 # 🔍 CNN vs RNN
@@ -60,13 +60,13 @@ The RNN treats the image as a sequence of rows and learns dependencies across th
 This project demonstrates how different neural network architectures can approach the same image-classification problem using different representations of the input data.
 
 # 🛠️ Technologies
-Python
-PyTorch
-Torchvision
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python, 
+PyTorch, 
+Torchvision, 
+NumPy, 
+Matplotlib, 
+Seaborn, 
+Scikit-learn, 
 Jupyter Notebook
 
 # 📁 Project Structure
