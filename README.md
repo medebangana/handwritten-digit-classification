@@ -48,8 +48,8 @@ Test Accuracy,
 Confusion Matrix, 
 Results, 
 Model	Test Accuracy, 
-CNN	XX.XX%, 
-RNN	XX.XX%
+CNN	99.16%, 
+RNN	95.62%
 
 # 🔍 CNN vs RNN
 
